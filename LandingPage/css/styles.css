@@ -21,7 +21,7 @@ body {
     height: 100vh;
     color: var(--primary-color);
     background: url("https://images.pexels.com/photos/917494/pexels-photo-917494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
-        no-repeat bottom/cover;
+        no-repeat center/cover;
 }
 
 #time {
